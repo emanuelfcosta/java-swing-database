@@ -8,7 +8,7 @@ This project demonstrates the use of Java Swing through a JDBC connection with M
 
 1- Run the script located in mysql-connector/script.sql
 
-2- Add the jcalendar-1.4.jar dependency. It is located in the swing-database directory. You can also download it from the  [Maven repository](https://dev.mysql.com/downloads/](https://mvnrepository.com/artifact/com.toedter/jcalendar/1.4 )  if you prefer.
+2- Add the jcalendar-1.4.jar dependency. It is located in the swing-database directory. You can also download it from the  [Maven repository](https://mvnrepository.com/artifact/com.toedter/jcalendar/1.4)  if you prefer.
 
 3- Add the mysql-connector-j-8.3.0.jar dependency. It is located in the swing-database directory. You can also download it from the  [Maven repository](https://mvnrepository.com/artifact/com.mysql/mysql-connector-j/8.3.0)  if you prefer.
 
